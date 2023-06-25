@@ -2,7 +2,7 @@
 
 React Tooltip is a tooltip component built using React. It provides an interactive tooltip that can be positioned at different locations on the screen.
 
-## Hosted Link - https://react-tooltip-hover.netlify.app/
+
 
 ## Features
 
